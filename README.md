@@ -1,37 +1,55 @@
-# Hi there, I'm Norxz 👋
+# 👋 Hi there, I'm **Norxz**
 
-I'm a passionate **student backend developer**. Always excited about learning new technologies and pushing my technical boundaries.
+I'm a **System Engineering student** and a passionate **backend developer**, focused on building robust, scalable, and secure applications.  
+I love exploring new technologies and pushing my limits through real-world projects.  
+Beyond coding, my goal is to become a **true engineer** — someone who creates **innovative solutions** to **real-life challenges**, such as helping people with communication barriers.
+
+---
 
 ## 🚀 About Me
 
-- 🎓 Student focused on backend development
-- 💻 working with **Python**, **Java**, **Spring Boot** **REACT**, **NODE.JS** , and **MySQL**
-- 🏗️ Always exploring new backend frameworks and best practices
+- 🎓 Studying **Systems Engineering** at *Universidad Piloto de Colombia*  
+- 💻 Specialized in **Backend Development** with **Java (Spring Boot)** and **Python**  
+- ⚙️ Experience integrating **React.js**, **MySQL**, **JWT Authentication**, and **WebSockets**  
+- 🧠 Always learning about **software architecture**, **API design**, and **clean code** principles  
+- 🤖 Interested in **AI**, **computer vision**, and **assistive technologies**  
+- 🧪 Currently exploring **performance testing** with **Apache JMeter**
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Java
-- **Frameworks:** Spring Boot, React, Node
-- **Database:** MySQL
-- **Other Interests:** Experimenting with frontend and cloud technologies
+**Languages:**  
+`Java` | `Python` | `JavaScript`
 
-## 🌟 Featured Projects
+**Frameworks & Tools:**  
+`Spring Boot` | `React.js` | `Node.js` | `JWT` | `Socket.IO`
 
-- **fast** (Private): High-speed, secure backend architecture (ask me about it!)
-- **REACT-SQL:** Bringing SQL magic to React-based applications
-- **ChallengeForoHub:** Community-powered challenges and learning hub
+**Databases:**  
+`MySQL` | `PostgreSQL`
+
+**Testing & Deployment:**  
+`Postman` | `JMeter` | `Render` | `Vercel`
+
+---
+
+---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/andres-espinosa-/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andres-espinosa-/)  
+- 💌 **andresespinosa156@gmail.com**
 
 ---
 
 ## 🇪🇸 Sobre Mí
 
-¡Hola! Soy Norxz, un estudiante apasionado por el desarrollo backend. **Python**, **Java**, **Spring Boot**, **REACT**, **NODE.JS** y **MySQL**. Siempre busco aprender cosas nuevas y mejorar mis habilidades técnicas.  
-Si quieres hablar sobre tecnología, intercambiar ideas o colaborar en algún proyecto, ¡no dudes en contactarme!
+¡Hola! Soy **Norxz**, estudiante de Ingeniería de Sistemas apasionado por el desarrollo **backend**, la **innovación** y la **tecnología con propósito**.  
+Mi objetivo no es solo ser un buen programador, sino un **buen ingeniero** que desarrolle **soluciones reales a problemas cotidianos** — como herramientas que ayuden a **personas con discapacidades comunicativas** a expresarse y conectarse con el mundo.
+
+Trabajo principalmente con **Java**, **Spring Boot**, **React**, **Node.js**, y **MySQL**, pero siempre estoy aprendiendo algo nuevo.  
+Me encanta construir, experimentar y mejorar cada día como profesional y como persona.
 
 ---
 
-> “Keep building, keep learning.”
+> 💡 *"Keep building, keep learning — but above all, keep helping."*
