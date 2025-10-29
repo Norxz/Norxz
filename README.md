@@ -38,7 +38,6 @@ Beyond coding, my goal is to become a **true engineer** — someone who creates 
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andres-espinosa-/)  
-- 💌 **andresespinosa156@gmail.com**
 
 ---
 
